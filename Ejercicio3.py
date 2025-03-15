@@ -1,6 +1,6 @@
 import math
 
-DESCUENTO = 0.75 # Descuento del 15%
+DESCUENTO = 0.85 # Descuento del 15%
 precio = input("Introduce el precio del producto: ")
 
 precio_final = int(precio) * DESCUENTO
